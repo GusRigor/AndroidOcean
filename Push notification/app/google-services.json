@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753505079359",
+    "project_id": "projetoappfirebase-7c6d0",
+    "storage_bucket": "projetoappfirebase-7c6d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753505079359:android:a65f3974eda4c760bf288a",
+        "android_client_info": {
+          "package_name": "com.oceanbrasil.ocean_android_push_firebase_19_10_2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753505079359-ulcooh8sh68j7ri81htanfvcoo1lug2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsSAaDPXx6YHEgEHh-yJd1QCiEbIs9p7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753505079359-ulcooh8sh68j7ri81htanfvcoo1lug2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

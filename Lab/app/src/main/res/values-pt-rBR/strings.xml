@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab_Android</string>
+    <string name="result">Resultado</string>
+    <string name="insert_your_name">Digite seu nome...</string>
+    <string name="send">Enviar</string>
+    <string name="open_result_screen">Abrir tela de Resultados</string>
+    <string name="hello_name">Olá, %1$s!</string>
+    <string name="send_result">Enviar Resultado</string>
+    <string name="recive_results">Receber Resultados</string>
+</resources>
